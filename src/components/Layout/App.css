@@ -30,3 +30,17 @@
     transform: rotate(360deg);
   }
 }
+
+.mt-100{
+  margin-top: 100px;
+}
+
+.mt-20{
+  margin-top: 20px;
+}
+
+.centered {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
